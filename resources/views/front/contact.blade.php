@@ -83,7 +83,7 @@
 
     <!-- google map section -->
     <div class="embed-responsive embed-responsive-21by9">
-        <iframe src="https://www.google.com/maps/embed/v1/place?q=Elâzığ,+Elâzığ+Merkez/Elazığ,+Türkiye&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" class="embed-responsive-item"></iframe>
+        <iframe src="https://www.google.com/maps/embed/v1/place?q=Elâzığ,+Elâzığ+Merkez/Elazığ,+Türkiye&key=APIKEY" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" class="embed-responsive-item"></iframe>
     </div>
     <!-- end google map section -->
 @endsection
